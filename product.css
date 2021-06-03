@@ -1,0 +1,27 @@
+.product-main {
+    margin-top: 70px;
+}
+
+#add {
+    max-height: 45px;
+    margin: 6px;
+    background: #ffc107;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    min-width: 122px;
+}
+
+#add:hover {
+    background: #ffce3a;
+}
+
+.price {
+    margin: 5px
+}
+
+#testimonials {
+    padding-bottom: 0px;
+}
